@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ziaualhassain
+- 👋 Hi, I’m @ziaualhassain Designer & Developer
 - 👀 I’m interested in BlockChain
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on BlockChain related project
