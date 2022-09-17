@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ziaualhassain Designer & Developer
-- 👀 I’m interested in BlockChain
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on BlockChain related project
+- 👀 I’m interested in learning new things!
+- 🌱 I’m currently learning about Blockchain and Solidity
 - 📫 You can reach me on twitter..
 
 <!---
