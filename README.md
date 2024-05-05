@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ziaualhassain Designer & Developer
+- 👋 Hi, I’m zia Designer & Developer
 - 👀 I’m interested in learning new things!
 - :seedling: Currently working as a Systems Engineer
 - 📫 You can reach me on twitter..
